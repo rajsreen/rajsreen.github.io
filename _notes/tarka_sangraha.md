@@ -9,8 +9,8 @@ category:
   - featured
 # tags will also be used as html meta keywords.
 tags:
-  - examples
-  - common_tag
+  - sanskrit
+  - tarka
 show_meta: true
 mathjax: true
 gistembed: true
