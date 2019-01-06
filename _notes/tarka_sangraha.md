@@ -18,16 +18,6 @@ published: true
 noindex: false
 ---
 
-Resources:  
-* [Wiki](https://sa.wikisource.org/wiki/तर्कसङ्ग्रहः)
-* [वंदयामि देवदत्त पाटीलम्] : (https://www.youtube.com/playlist?list=PL63uIhJxWbghYVJlCEAVPvWI2X75z2V52)
-* [Some Notes](https://sites.google.com/site/tarkasangrahah/)
-* [SFO site](https://sites.google.com/site/samskrtamsfo/darsanam/nyayashastram/tarkasangrahah)
-* [Sataavadhaani Sri Dorbala Prabhakara Sarma](https://www.youtube.com/playlist?list=PL96EFBA297839C620)
-* [SFO youtube classes] (https://www.youtube.com/watch?v=qvP65AIaHcI&list=PLYBqfL4ycMjsRkQI6wg6w8aPKIXScMKRp)
-* [Swarup](https://sites.google.com/site/samskritavyakaranam/10---nyAyashAstram)
-* 
-
 
 निधाय हृदि विश्वेशं विधाय गुरुवन्दनम् ।
 बालानां सुखबोधाय क्रियते तर्कसंग्रहः ॥
@@ -54,7 +44,7 @@ Resources:
 
 * द्रव्यं अाश्रित्य अन्ये षट् पदार्थाः तिष्ठंति। अत एव प्रथमम् ।
 
-॰द्रव्य विषयं](./drvaya_vishayam.md)
+[द्रव्य विषयं](./drvaya_vishayam.md)
 
 ====
 
@@ -238,4 +228,12 @@ __॥ शब्दगुणकमाकाशम्। तच्चैकं व
 
 
 
+Resources:  
+* [Wiki](https://sa.wikisource.org/wiki/तर्कसङ्ग्रहः)
+* [वंदयामि देवदत्त पाटीलम्] : (https://www.youtube.com/playlist?list=PL63uIhJxWbghYVJlCEAVPvWI2X75z2V52)
+* [Some Notes](https://sites.google.com/site/tarkasangrahah/)
+* [SFO site](https://sites.google.com/site/samskrtamsfo/darsanam/nyayashastram/tarkasangrahah)
+* [Sataavadhaani Sri Dorbala Prabhakara Sarma](https://www.youtube.com/playlist?list=PL96EFBA297839C620)
+* [SFO youtube classes] (https://www.youtube.com/watch?v=qvP65AIaHcI&list=PLYBqfL4ycMjsRkQI6wg6w8aPKIXScMKRp)
+* [Swarup](https://sites.google.com/site/samskritavyakaranam/10---nyAyashAstram)
 
