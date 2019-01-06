@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'द्रवय विषयम्'
-date: "2019-01-0६"
+date: "2019-01-06"
 slug: "तर्कसंग्रहः"
 description: "Tarka Sangraha- dravya vishayam"
 category: 
