@@ -13,7 +13,6 @@ sitemap:
     changefreq: 'monthly'
     lastmod: 2016-02-13
 tags:
-  - "foo boo"
   - "driving directions"
   - address
 ---

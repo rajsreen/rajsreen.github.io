@@ -49,18 +49,18 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
-  facebook:       
+  twitter:        rajagopal211
+  #facebook:       
   github:         xyz123abc
-  stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
-  instagram:      
-  flickr:
+  #stackexchange:  
+  linkedin:       https://www.linkedin.com/in/rajagopal-sreenivasan-a02b5a10/
+  #instagram:      
+  #flickr:
   tumblr:  
-  google_plus:    https://plus.google.com/+foo
+  #google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+  #orcid: xyz123abc
+  #gscholar: xyz123abc
 
 ## sidebar links:
 # For external links add external: true
