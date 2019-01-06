@@ -5,7 +5,7 @@ title: Personal Homepage of Rajagopal Sreenivasan
 description: "Random Musings ...."
 ---
 
-## [Random Musings ...](http://127.0.0.1:4000/rajsreen/)
+## [Random Musings ...](https://rajsreen.github.io/)
 
 This is personal blog of Rajagopal Sreenivasan
 
