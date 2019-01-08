@@ -37,8 +37,8 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 # About/contact
 author:
   name:              Rajagopal Sreenivasan
-  url:               https://twitter.com/abcd
-  avatar:         foo.png
+  url:               https://twitter.com/rajagopal211
+  #avatar:         foo.png
   #email:           
 
 # Owner/author information
