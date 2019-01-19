@@ -6,7 +6,7 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               Rajagopal Sreenivasan
+title:               Random Musings..
 #tagline:             'foo's website
 description:         Rajagopal's blog...
 url: https://rajsreen.github.io
@@ -80,7 +80,7 @@ links:
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
+    url: https://twitter.com/rajagopal211
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml

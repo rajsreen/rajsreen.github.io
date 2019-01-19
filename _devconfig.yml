@@ -34,7 +34,7 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 # About/contact
 author:
   name:              Foo Boo
-  url:               https://twitter.com/abcd
+  url:               https://twitter.com/rajagopal211
   avatar:         foo.png
   #email:           
 
@@ -46,9 +46,9 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
+  twitter:        rajagopal211
   facebook:       
-  github:         xyz123abc
+  github:         rajsreen
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/foo
   instagram:      
