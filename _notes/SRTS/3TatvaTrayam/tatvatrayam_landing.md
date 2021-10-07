@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'चित्सु स्वरूपस्थितिप्रवृत्तिभेदं'
+title: 'TatvatrayaChintanadhikaaram'
 date: "2019-01-06"
 slug: "SRTS"
-description: "Tarka Sangraha- dravya vishayam"
+description: "SRTS"
 category: 
   - views
   - featured
