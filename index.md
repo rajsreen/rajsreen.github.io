@@ -9,7 +9,7 @@ description: "Random Musings ...."
 
 This is personal blog of Rajagopal Sreenivasan
 
-[TatvatrayamMap](https://rajsreen.github.io/notes/tatvatrayam_map.html)
+## [TatvatrayamMap](https://rajsreen.github.io/notes/tatvatrayam_map.html)
 
 <!--
 {% if site.twitter_widget_id %}
