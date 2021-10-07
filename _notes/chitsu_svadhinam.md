@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'द्रवय विषयम्'
-date: "2019-01-06"
-slug: "तर्कसंग्रहः"
+title: 'चित्सु स्वरूपस्थितिप्रवृत्तिभेदं'
+date: "20121-07-10"
+slug: "SRTS"
 description: "chitsu_svadhinatrividha"
 category: 
   - views
