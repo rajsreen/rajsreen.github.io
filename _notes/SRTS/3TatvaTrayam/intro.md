@@ -1,3 +1,23 @@
+---
+layout: post
+title: 'prakrittyaatma'
+date: "2019-01-06"
+slug: "SRTS"
+description: "Tatvatrayam-intro"
+category: 
+  - views
+  - featured
+# tags will also be used as html meta keywords.
+tags:
+  - srts
+show_meta: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+---
+
+
 
 # प्रकृत्यात्मभ्रान्तिर्गळति चिदचिल्लक्षणधिया तथा जीवेशैक्यप्रभृतिकलहस्तद्विभजनात् ।
 # अतो भोक्ता भोग्यं तदुभयनियन्तेति निगमै र्विभक्तं नस्तत्वत्रयमुपदिशन्त्यक्षतधियः ।।
