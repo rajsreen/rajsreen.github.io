@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'prakrittyaatma'
+title: 'प्रकृत्यात्मभ्रान्तिर्गळति'
 date: "2019-01-06"
 slug: "SRTS"
 description: "Tatvatrayam-intro"
