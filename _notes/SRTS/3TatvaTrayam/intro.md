@@ -13,7 +13,7 @@ tags:
 show_meta: true
 mathjax: true
 gistembed: true
-published: false
+published: true
 noindex: false
 ---
 

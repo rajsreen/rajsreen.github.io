@@ -1,3 +1,23 @@
+---
+layout: post
+title: 'स्वाधीनस्वरूपस्थितिप्रवृत्तिभेदं'
+date: "2021-08-10"
+slug: "SRTS"
+description: "SRTS-3-स्वाधीनस्वरूपस्थितिप्रवृत्तिभेदं"
+category: 
+  - views
+  - featured
+# tags will also be used as html meta keywords.
+tags:
+  - srts
+  - tatvatrayam
+show_meta: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+---
+
 >  இவ்वीशेशितव्यरूपமான तत्वत्रयம் நிற்கும் நிலையை ‘‘स्वाधीनत्रिविधचेतनाचेतनस्वरूपस्थितिप्रवृत्तिभेदम्’’ என்று சுருங்க அருளிச்செய்தார்.
 
 >  त्रिविधचेतनரென்றது 
