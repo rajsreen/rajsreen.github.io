@@ -1,3 +1,22 @@
+---
+layout: post
+title: 'मुक्तात् भेदम् '
+date: "2019-01-06"
+slug: "SRTS"
+description: "SRTS_3_मुक्तात् भेदम्"
+category: 
+  - views
+  - featured
+# tags will also be used as html meta keywords.
+tags:
+  - srts
+show_meta: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+---
+
 # मुक्त भेदम्
 
 > मुक्तருக்கு நீக்கியுள்ளாரில் भेदம் प्रतिबन्धकनिवृत्तिயாலே आविर्भूतस्वरूपமாயிருக்கை. 
