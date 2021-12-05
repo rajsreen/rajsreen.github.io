@@ -1,4 +1,23 @@
-# नित्य भेदम्
+---
+layout: post
+title: 'नित्येभ्यः भेदम् '
+date: "2019-01-06"
+slug: "SRTS"
+description: "SRTS_3_nitya_bhedam"
+category: 
+  - views
+  - featured
+# tags will also be used as html meta keywords.
+tags:
+  - srts
+show_meta: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+---
+
+# नित्यभेदम्
 
 > नित्यருக்கு நீக்கியுள்ளாரில் भेदம் अनाद्याविर्भूतस्वरूपராய் परतन्त्रராயிருக்கை. 
 
