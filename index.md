@@ -6,7 +6,7 @@ description: "Random Musings ...."
 ---
 
 ## [Rig](https://rajsreen.github.io/notes/Vedamaps/rig.html)
-## [Yajur](https://rajsreen.github.io/notes/Vedamaps/yajur.html)
+## [Yajur](https://rajsreen.github.io/notes/Vedamaps/yajurMap.html)
 
 ## [Maps](https://rajsreen.github.io/notes/SRTS/3TatvaTrayam/allMaps.html)
 ## [ApohishtaMapView](https://rajsreen.github.io/notes/SRTS/3TatvaTrayam/apohishta_map.html)
