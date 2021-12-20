@@ -5,7 +5,7 @@ title: Personal Homepage of Rajagopal Sreenivasan
 description: "Random Musings ...."
 ---
 
-## [Rig](https://rajsreen.github.io/notes/Vedamaps/rig.html)
+## [Rig](https://rajsreen.github.io/notes/Vedamaps/rigMap.html)
 ## [Yajur](https://rajsreen.github.io/notes/Vedamaps/yajurMap.html)
 
 ## [Maps](https://rajsreen.github.io/notes/SRTS/3TatvaTrayam/allMaps.html)
